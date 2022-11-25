@@ -28,16 +28,16 @@ h1 {
   font-family: Sofia, sans-serif;
   font-weight: bold;
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .welcome h2 {
-        font-size: 15px
+        font-size: 16px
     }
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .welcome h5 {
-        font-size: 11px
+        font-size: 13px
     }
 }
 [data-component="slideshow"] .slide {
@@ -131,10 +131,10 @@ img {vertical-align: middle;}
   background-color: #f1f1f1;
   color: black;
 } 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .prev, .next {
-        font-size: 14px
+        font-size: 15px
     }
 }
 .border {
@@ -292,7 +292,7 @@ hr {
   font-size: 22px;
   text-align: center;
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .outro h3 {
         font-size: 12px
@@ -330,7 +330,7 @@ border-radius: 30px;
  text-shadow: 1px 3px 2px;
    font-size: 18px;
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .recordtext p {
         font-size: 7px
@@ -339,7 +339,7 @@ border-radius: 30px;
 .recordtext li {
  text-shadow: 1px 3px 2px 
 } 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .recordtext li {
         font-size: 14px
@@ -357,7 +357,7 @@ border-radius: 30px;
 .secretaries li {
  text-shadow: 1px 3px 2px; 
 }
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .secretaries li {
         font-size: 10px
@@ -366,7 +366,7 @@ border-radius: 30px;
 .secretaries p { 
    font-size: 16px;
 } 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 801px) {
 
 .secretaries p {
         font-size: 6px
